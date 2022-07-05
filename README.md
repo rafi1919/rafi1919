@@ -1,4 +1,4 @@
-(![MasterHead] (https://c.tenor.com/_zbsJOBoVOEAAAAC/banner.gif) ]
+[![MasterHead] (https://c.tenor.com/_zbsJOBoVOEAAAAC/banner.gif)](https://rafi1919.io)
 <h1 align="center">Hi 👋, I'm rafi</h1>
 <h3 align="center">junior front-end programmer | content creator</h3>
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/N7YUZCqA1e0AAAAC/barbatos-gundam.gif">
