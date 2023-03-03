@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **my nft like website**
 
-- 🌱 I’m currently learning **react.js**
+- 🌱 I’m currently learning **react.js**  **vue.js**
 
 - 👯 I’m looking to collaborate on **intern program**
 
 - 📫 How to reach me **rafifourze1904@gmail.com**
 
-- 📄 My favourite anime is [Gundam](Gundam)
+- 📄 My favourite anime is [Gundam]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
