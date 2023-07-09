@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **intern program**
 
-- 📫 How to reach me **rafifourze1904@gmail.com**
+- 📫 How to reach me **rafionwork44@gmail.com**
 
 - 📄 My favourite anime is [Gundam]
 
